@@ -7,11 +7,11 @@
 
 
 ## 1. ETL Flow Diagram
-https://github.com/lakshays175/AH-Techincal-Test/blob/31e8139101f2185d80474545203b6c28765c2e35/sql_etl_pipeline.png
+![ETL Flow Diagram](https://github.com/lakshays175/AH-Techincal-Test/blob/31e8139101f2185d80474545203b6c28765c2e35/sql_etl_pipeline.png)
 
 
 ## 2. Data Model Schema
-https://github.com/lakshays175/AH-Techincal-Test/blob/31e8139101f2185d80474545203b6c28765c2e35/data%20model%20diagram.png
+![Data Model](https://github.com/lakshays175/AH-Techincal-Test/blob/31e8139101f2185d80474545203b6c28765c2e35/data%20model%20diagram.png)
 
 ### Schema
 
